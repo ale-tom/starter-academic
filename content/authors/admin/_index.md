@@ -1,18 +1,22 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr Alessandro Tomassini
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
+- name: MRC Cognition and Brain Sciences Unit, University of Cambridge
+  url: "https://www.mrc-cbu.cam.ac.uk"
+- name: Cambridge Centre for Frontotemporal Dementia and Related Disorders, University of Cambridge
+  url: "https://ftd.neurology.cam.ac.uk"
+- name: Sidney Sussex College, University of Cambridge
+  url: "https://www.sid.cam.ac.uk/people/dr-alessandro-tomassini"
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
