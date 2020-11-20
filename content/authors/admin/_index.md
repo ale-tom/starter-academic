@@ -6,7 +6,7 @@ title: Dr Alessandro Tomassini
 superuser: true
 
 # Role/position
-role: Research Fellow
+role: Investigator Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,23 @@ organizations:
   url: "https://www.sid.cam.ac.uk/people/dr-alessandro-tomassini"
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include decision-making, action-control, neurodegeneration, neuroimaging and computational modelling.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Decision-making and action control
+- Parkinson's disease
+- Neuroimaging (MRI/MEG/EEG)
+- Computational modelling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Visual Psychophysics
+    institution: City, University of London, UK
+    year: 2011
+  - course: MSc in Experimental Psychology
+    institution: University of Florence, Italy
+    year: 2007
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:alessandro.tomassini@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/le_Tomassini
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ale-tom
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My primary research interest lies in understanding the neural basis of cognitive changes arising early in neurodegenerative conditions such as Parkinson's disease.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As part of Professor James Rowe's group, I investigate these cognitive changes combining mathematical models and neuroimaging techniques (Magnetic Resonance Imaging, Electroencephalography and Magnetoencephalography) to relate behaviour to neural systems in health and disease.
+
+My research is conducted in collaboration with the MRC Cognition and Brain Science Unit and the Cambridge Centre for Frontotemporal Dementia and Related Disorders within the School of Clinical Medicine.
