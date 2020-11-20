@@ -75,6 +75,6 @@ user_groups:
 
 I am a neuroscientist at the MRC Cognition and Brain Sciences Unit, University of Cambridge. My primary research interest lies in understanding the neural basis of cognitive changes arising early in neurodegenerative conditions such as Parkinson's disease.
 
-As part of Professor James Rowe's group, I investigate these cognitive changes combining mathematical models and neuroimaging techniques (Magnetic Resonance Imaging, Electroencephalography and Magnetoencephalography) to relate behaviour to neural systems in health and disease.
+As part of Professor James Rowe's group, I investigate these cognitive changes combining mathematical models and neuroimaging techniques (Magnetic Resonance Imaging, Electroencephalography and Magnetoencephalography) to relate behaviour to neural systems in health and disease. My research is conducted in collaboration with the Cambridge Centre for Frontotemporal Dementia and Related Disorders within the School of Clinical Medicine.
 
-My research is conducted in collaboration with the Cambridge Centre for Frontotemporal Dementia and Related Disorders within the School of Clinical Medicine.
+I also campain to increase openess, integrity, and reproducibility of scholarly research.
