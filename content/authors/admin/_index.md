@@ -25,6 +25,7 @@ interests:
 - Parkinson's disease
 - Neuroimaging (MRI/MEG/EEG)
 - Computational modelling
+- Methods and Open Science
 
 education:
   courses:
