@@ -59,7 +59,7 @@ social:
   link: https://www.linkedin.com/in/alessandro-tomassini-1452a911/
 - icon: osf
   icon_pack: ai
-  link: osf.io/svak3
+  link: https://osf.io/svak3/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
