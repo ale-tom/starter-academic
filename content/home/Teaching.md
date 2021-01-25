@@ -7,13 +7,13 @@ widget: 'accomplishments'
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'TEACHING'
+title: 'Teaching'
 subtitle: 
 
 # Section design
