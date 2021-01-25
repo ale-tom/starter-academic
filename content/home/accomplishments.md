@@ -16,6 +16,12 @@ weight: 50
 title: 'Accomplish&shy;ments'
 subtitle:
 
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "2"
+
+
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
