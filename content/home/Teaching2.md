@@ -15,7 +15,7 @@ weight = 60
 
 
 [[item]]
-- certificate_url= https://www.coursera.org
+  certificate_url= https://www.coursera.org
   date_end= ""
   date_start= "2018-10-01"
   description= ""
