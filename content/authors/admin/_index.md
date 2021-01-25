@@ -85,4 +85,3 @@ As part of Professor James Rowe's group, I investigate these cognitive changes c
 
 I also campaign to promote openess, integrity, and reproducibility of scholarly research.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
