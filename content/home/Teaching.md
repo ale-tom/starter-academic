@@ -1,8 +1,8 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: 'github.ale-tom.Teaching'
-
+# widget: 'github.ale-tom.Teaching'
+widget: 'accomplishments'
 # This file represents a page section.
 headless: true
 
@@ -30,6 +30,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
