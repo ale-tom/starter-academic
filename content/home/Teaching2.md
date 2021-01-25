@@ -19,9 +19,9 @@ weight = 60
   date_end= ""
   date_start= "2018-10-01"
   description= ""
-  organization= Coursera
+  organization= "Coursera"
   organization_url= ""
-  title= Neural Networks and Deep Learning
+  title= "Neural Networks and Deep Learning"
   url= ""
 
 +++
