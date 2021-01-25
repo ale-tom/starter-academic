@@ -84,3 +84,5 @@ I am a neuroscientist at the MRC Cognition and Brain Sciences Unit, University o
 As part of Professor James Rowe's group, I investigate these cognitive changes combining mathematical models and neuroimaging techniques (Magnetic Resonance Imaging, Electroencephalography and Magnetoencephalography) to relate behaviour to neural systems in health and disease. My research is conducted in collaboration with the Cambridge Centre for Frontotemporal Dementia and Related Disorders within the School of Clinical Medicine.
 
 I also campaign to promote openess, integrity, and reproducibility of scholarly research.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
