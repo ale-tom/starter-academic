@@ -15,12 +15,12 @@ weight = 60
 
 
 [[item]]
-  certificate_url= https://www.coursera.org
+  certificate_url= ""
   date_end= ""
   date_start= "2018-10-01"
   description= ""
   organization= Coursera
-  organization_url= https://www.coursera.org
+  organization_url= ""
   title= Neural Networks and Deep Learning
   url= ""
 
