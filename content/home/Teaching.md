@@ -10,11 +10,11 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 10
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'TEACHING'
-subtitle: 'vaffanculo'
+subtitle: 
 
 # Section design
 design:
