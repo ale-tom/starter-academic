@@ -19,7 +19,7 @@ subtitle: 'vaffanculo'
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  columns: "2"
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
