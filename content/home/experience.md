@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Employment"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,23 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Investigator Scientist"
+  company = "MRC Cognition and Brain Science Unit, University of Cambridge"
+  company_url = ""
+  location = "Cambridge, UK"
+  date_start = "2015-03-01"
+  date_end = ""
+  description = """
+  
+  """
+
+[[experience]]
   title = "Research Associate"
   company = "Institute of Neurology, University College London"
   company_url = ""
-  location = "London, UK"
-  date_start = "Sept 2011"
-  date_end = """""
+  location = "London UK"
+  date_start = "2011-09-01"
+  date_end = "2014-12-09"
   description = """
-  Responsibilities include:
   """
 
 [[experience]]
   title = "Research Assistant"
   company = "Institute of Cognitive Neuroscience, University College London"
   company_url = ""
-  location = "London, UK"
-  date_start = "Sept 2010"
-  date_end = "Oct 2016"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "London UK"
+  date_start = "2010-09-01"
+  date_end =  "2011-09-01"
+  description = """
+  """
 
 +++
