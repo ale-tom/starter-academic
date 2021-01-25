@@ -8,6 +8,11 @@ weight = 50  # Order that this section will appear.
 title = "Accomplish&shy;ments"
 subtitle = ""
 
+# Section design
+design:
+  # Use a 2-column layout
+  columns: "1"
+
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
